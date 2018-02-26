@@ -1,0 +1,21 @@
+#btnAddAccount{
+    text-align: right;
+    padding-right: 100px;
+    color:Black;
+    font-size:1em;
+    margin:0;
+   
+}
+.btnAdd{
+    color:forestgreen;
+}
+.COATable,.COARow, .COATitle{
+    padding:10px 100px 10px 20px;
+    border-bottom: 2px solid forestgreen;
+}
+.COATitle{
+    
+}
+.COAData{
+border-left:none;
+}

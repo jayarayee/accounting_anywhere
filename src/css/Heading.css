@@ -1,0 +1,37 @@
+a{
+    color:black;
+    text-decoration: none;
+}
+td{
+    border-left: 2px solid black;
+}
+.welcome{
+    text-align:right;
+    padding: 10px;
+    
+}
+#help{
+    border-right: 2px solid black;
+}
+#head-container{
+    background-image:"./imgs/greenLeaf.jpeg";
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: forestgreen;
+}
+
+#nav-buttons{
+    font-size:1.5em;
+    margin-left: auto;
+    margin-right:auto;
+    
+  
+}
+#title{
+    border: 2px solid black;
+    border-radius:100px;
+    margin: auto;
+    margin-left:100px;
+    display: inline-block;
+    height: 10%;
+    width:15%;
+}
